@@ -2,11 +2,11 @@
 
 [EFT Library](https://eftlibrary.com)
 
-![스크린샷 2025-01-31 오후 2 40 15](https://github.com/user-attachments/assets/6795c147-f007-45f0-8d8a-42c862dc2a09)
+<img width="952" alt="main" src="https://github.com/user-attachments/assets/01e8490c-3592-45c6-89e9-2b45b8e8eaea" />
 
 
 # 전체 구조
 
-![orig](https://github.com/user-attachments/assets/91797e2a-e9c2-4d79-a461-5b3d9d78f6b9)
+![architecture](https://github.com/user-attachments/assets/9096b294-91e7-4674-a64e-5a39f150d373)
 
 
