@@ -1,3 +1,5 @@
+> 개발자로 일하면서 사이드 프로젝트를 하는 것은, 때론 낭만처럼 느껴집니다.
+
 # EFT Library
 
 [EFT Library](https://eftlibrary.com)
