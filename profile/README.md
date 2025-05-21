@@ -7,6 +7,6 @@
 
 # 전체 구조
 
-![architecture](https://github.com/user-attachments/assets/db527cb3-e153-4753-94b2-bb57fdf6dddb)
+![architecture](https://github.com/user-attachments/assets/0aad4cb2-2a18-48e1-832c-436507af67fd)
 
 
