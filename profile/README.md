@@ -2,6 +2,8 @@
 
 # EFT Library
 
+**Escape from Tarkov 유저들을 위한 종합 정보 플랫폼**
+
 [📌 EFT Library](https://eftlibrary.com)
 
 <img width="952" alt="main" src="https://github.com/user-attachments/assets/01e8490c-3592-45c6-89e9-2b45b8e8eaea" />
