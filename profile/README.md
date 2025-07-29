@@ -6,7 +6,7 @@
 
 [📌 EFT Library](https://eftlibrary.com)
 
-<img width="952" alt="main" src="https://github.com/user-attachments/assets/01e8490c-3592-45c6-89e9-2b45b8e8eaea" />
+<img width="1561" height="1292" alt="스크린샷 2025-07-29 205235" src="https://github.com/user-attachments/assets/00aaed7a-01be-4350-8230-074a5a8270a9" />
 
 
 # 전체 구조
