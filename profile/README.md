@@ -10,6 +10,4 @@
 
 # 전체 구조
 
-<img width="1923" height="1366" alt="arc" src="https://github.com/user-attachments/assets/ee949526-d6ce-4f69-bf64-6c350097a593" />
-
-
+<img width="1923" height="1366" alt="arccccc" src="https://github.com/user-attachments/assets/37b1127a-d409-4963-9cdb-b3c45ffceb8e" />
