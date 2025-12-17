@@ -6,12 +6,10 @@
 
 [📌 EFT Library](https://eftlibrary.com)
 
-<img width="768" height="248" alt="스크린샷 2025-12-11 오전 8 02 52" src="https://github.com/user-attachments/assets/2151d33f-f549-49c3-a9ae-7a56d5c87f86" />
+<img width="986" height="795" alt="스크린샷 2025-12-17 오후 3 01 24" src="https://github.com/user-attachments/assets/7f19410b-d86e-4d59-a0ab-0b9e5f513893" />
 
 # 전체 구조
 
 <img width="1923" height="1366" alt="arc" src="https://github.com/user-attachments/assets/ee949526-d6ce-4f69-bf64-6c350097a593" />
-
-![architecture](https://github.com/user-attachments/assets/0aad4cb2-2a18-48e1-832c-436507af67fd)
 
 
