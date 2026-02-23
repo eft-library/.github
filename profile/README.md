@@ -10,4 +10,4 @@
 
 # 전체 구조
 
-<img width="1923" height="1366" alt="last" src="https://github.com/user-attachments/assets/3a17adc2-e80b-4042-93fa-dda30bbaf947" />
+<img width="1353" height="1087" alt="스크린샷 2026-02-23 오전 9 21 04" src="https://github.com/user-attachments/assets/3627062d-4a78-48d3-82db-5c85904131bd" />
