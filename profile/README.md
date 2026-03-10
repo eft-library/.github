@@ -6,8 +6,8 @@
 
 [📌 EFT Library](https://eftlibrary.com)
 
-<img width="986" height="795" alt="스크린샷 2025-12-17 오후 3 01 24" src="https://github.com/user-attachments/assets/7f19410b-d86e-4d59-a0ab-0b9e5f513893" />
+<img width="1298" height="1142" alt="스크린샷 2026-03-11 오전 8 05 29" src="https://github.com/user-attachments/assets/95e10dc9-43fe-4bc6-b2f0-5c7000fb1a0d" />
 
 # 전체 구조
 
-<img width="1436" height="1181" alt="arch_v3" src="https://github.com/user-attachments/assets/b517a759-3b5d-4b18-bada-ec50c0971787" />
+<img width="1314" height="1275" alt="arch_v4" src="https://github.com/user-attachments/assets/0392b55e-14b0-45d8-9aa6-4b83a9cd640f" />
