@@ -1,6 +1,6 @@
 > 히히 재밌다.
 
-# EFT Library
+# 타르코프 도서관
 
 **Escape from Tarkov 유저들을 위한 종합 정보 플랫폼**
 
