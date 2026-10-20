@@ -4,10 +4,10 @@
 
 **Escape from Tarkov 유저들을 위한 종합 정보 플랫폼**
 
-[📌 EFT Library](https://eftlibrary.com)
+[📌 타르코프 도서관](https://eftlibrary.com)
 
-<img width="1298" height="1142" alt="스크린샷 2026-03-11 오전 8 05 29" src="https://github.com/user-attachments/assets/95e10dc9-43fe-4bc6-b2f0-5c7000fb1a0d" />
+<img width="1254" height="1112" alt="261020_main" src="https://github.com/user-attachments/assets/d405222b-0863-417b-83f5-5112fe9b281b" />
 
-# 전체 구조
+# 전체 구조 - 26.10.20
+<img width="1141" height="955" alt="261020_architecture" src="https://github.com/user-attachments/assets/e7ed7864-3732-4825-b836-5b6cf2f5ed55" />
 
-<img width="1314" height="1275" alt="arch_v4" src="https://github.com/user-attachments/assets/0392b55e-14b0-45d8-9aa6-4b83a9cd640f" />
