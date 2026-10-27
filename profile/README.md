@@ -8,6 +8,6 @@
 
 <img width="1254" height="1112" alt="261020_main" src="https://github.com/user-attachments/assets/d405222b-0863-417b-83f5-5112fe9b281b" />
 
-# 전체 구조 - 26.10.20
-<img width="1141" height="955" alt="261020_architecture" src="https://github.com/user-attachments/assets/e7ed7864-3732-4825-b836-5b6cf2f5ed55" />
+# 전체 구조 - 26.10.27
+<img width="1170" height="960" alt="261027_arch" src="https://github.com/user-attachments/assets/49d7ab62-f53b-4898-b4fc-8c180b9b3689" />
 
