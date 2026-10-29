@@ -10,5 +10,6 @@
 <img width="1366" height="1027" alt="20261029_simple_arch" src="https://github.com/user-attachments/assets/cc853f97-6769-4e15-8597-54d2702087b8" />
 
 # 상세 시스템 아키텍처 구성도 - 26.10.29
-<img width="1351" height="1167" alt="261029_detail_arch" src="https://github.com/user-attachments/assets/14993361-38d8-4a79-9d8b-15eba8ed009e" />
+<img width="1344" height="1178" alt="261029_detail_arch" src="https://github.com/user-attachments/assets/b995e80f-8827-49a1-9d35-13d3db581014" />
+
 
