@@ -4,7 +4,7 @@
 
 [📌 타르코프 도서관](https://eftlibrary.com)
 
-<img width="1254" height="1112" alt="261020_main" src="https://github.com/user-attachments/assets/d405222b-0863-417b-83f5-5112fe9b281b" />
+<img width="1256" height="1082" alt="스크린샷 2026-10-29 오후 2 29 12" src="https://github.com/user-attachments/assets/11394515-bcc7-45f4-be2f-3c79b2c11b58" />
 
 # 전체 구조 - 26.10.29
 <img width="1366" height="1027" alt="20261029_simple_arch" src="https://github.com/user-attachments/assets/cc853f97-6769-4e15-8597-54d2702087b8" />
